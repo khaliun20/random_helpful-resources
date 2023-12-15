@@ -1,4 +1,4 @@
-# random_helpful-resources
+# Cool Resources
 
 ## Parallelism
 

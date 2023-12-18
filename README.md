@@ -15,3 +15,4 @@
 ## ML
 
 * https://github.com/kylebradbury/ids705/blob/main/lectures/lecture13_neural_networks_1.pdf
+* https://www.kylebradbury.org/datascience.html#comptools

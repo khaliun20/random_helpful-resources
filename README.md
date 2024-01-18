@@ -20,3 +20,7 @@
 ## AWS
 
 * https://devspot.org/SAA-C02.html
+
+## General SWE Practices
+
+* https://www.linkedin.com/pulse/software-engineering-defining-best-practices-sanjoy-kumar-malik/?trackingId=StLEFMwkTlyhnp%2FId7FGKA%3D%3D

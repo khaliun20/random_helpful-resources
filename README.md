@@ -24,3 +24,7 @@
 ## General SWE Practices
 
 * https://www.linkedin.com/pulse/software-engineering-defining-best-practices-sanjoy-kumar-malik/?trackingId=StLEFMwkTlyhnp%2FId7FGKA%3D%3D
+
+## Books
+
+* https://github.com/GunterMueller/Books-3

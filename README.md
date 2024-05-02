@@ -24,6 +24,7 @@
 ## General SWE Practices
 
 * https://www.linkedin.com/pulse/software-engineering-defining-best-practices-sanjoy-kumar-malik/?trackingId=StLEFMwkTlyhnp%2FId7FGKA%3D%3D
+* how to write readme? https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
 
 ## Books
 
